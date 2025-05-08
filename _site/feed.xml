@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/PleaseKnock/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/PleaseKnock/" rel="alternate" type="text/html" /><updated>2025-05-08T10:59:51+09:00</updated><id>http://localhost:4000/PleaseKnock/feed.xml</id><title type="html">Please Knock</title><subtitle>노크하세요</subtitle><author><name>Noke</name></author><entry><title type="html">첫 번째 글</title><link href="http://localhost:4000/PleaseKnock/%EA%B8%B0%EB%A1%9D/%EB%B8%94%EB%A1%9C%EA%B7%B8/2025/05/08/first-post.html" rel="alternate" type="text/html" title="첫 번째 글" /><published>2025-05-08T10:00:00+09:00</published><updated>2025-05-08T10:00:00+09:00</updated><id>http://localhost:4000/PleaseKnock/%EA%B8%B0%EB%A1%9D/%EB%B8%94%EB%A1%9C%EA%B7%B8/2025/05/08/first-post</id><content type="html" xml:base="http://localhost:4000/PleaseKnock/%EA%B8%B0%EB%A1%9D/%EB%B8%94%EB%A1%9C%EA%B7%B8/2025/05/08/first-post.html"><![CDATA[<p>이건 마크다운으로 작성된 첫 번째 포스트입니다!</p>
+
+<ul>
+  <li>깔끔하게</li>
+  <li>쉽게</li>
+  <li>블로그처럼</li>
+</ul>]]></content><author><name>Noke</name></author><category term="기록" /><category term="블로그" /><summary type="html"><![CDATA[이건 마크다운으로 작성된 첫 번째 포스트입니다!]]></summary></entry></feed>
